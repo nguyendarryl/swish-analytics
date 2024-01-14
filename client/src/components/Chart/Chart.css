@@ -1,0 +1,27 @@
+@media screen and (max-width: 800px) {
+  .filter__bet-type-container,
+  .filter__selection-container {
+    width: 50vw;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .filter__bet-type-container,
+  .filter__selection-container {
+    width: 70vw;
+  }
+}
+
+@media screen and (max-width: 340px) {
+  .filter__bet-type-container,
+  .filter__selection-container {
+    width: 75vw;
+  }
+}
+
+@media screen and (max-width: 290px) {
+  .filter__bet-type-container,
+  .filter__selection-container {
+    width: 50vw;
+  }
+}

@@ -1,0 +1,20 @@
+.dropdown {
+  background: #ffffff;
+  border-radius: 2px;
+  border: 1px solid #e3e3e3;
+}
+
+.dropdown-menu {
+  width: 100%;
+  --bs-dropdown-link-active-bg: #f3f6f7;
+  --bs-dropdown-link-focus-border: none;
+  background: #ffffff;
+  border-color: #e3e3e3;
+  border-radius: 2px;
+  font-size: 90%;
+}
+
+.btn-group-sm > .btn,
+.btn-sm {
+  --bs-btn-font-size: 90%;
+}
